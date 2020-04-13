@@ -1,3 +1,7 @@
+# WhatsApp Clone (client)
+
+> An open-source chat app using React, Typescript and GraphQL.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
